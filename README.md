@@ -8,6 +8,7 @@ In order to ensure the proper functionality of this implementation these steps h
 - [Setup your Python 3 Environment](https://bitbucket.org/Netzeband/deepdriving/wiki/InstallWindowsPython)
 
 Download this repository and the trained model [here](https://www.dropbox.com/s/klwcj6bizpuw21m/trained.zip?dl=0) and extract it inside the repository.
+![file structure](filestructure.png)
 
 This project was tested on Python 3.5.4
 
